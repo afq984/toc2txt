@@ -38,3 +38,7 @@ $ python toc2txt.py example.toc
 1. ![Recompile](resources/recompile.png)
 2. ![Logs and output files](resources/laoo.png)
 3. ![Other logs & files](resources/olaf.png)
+
+## Why am I doing this
+
+![Ask NTHU](resources/why.png)
