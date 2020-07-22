@@ -1,0 +1,17 @@
+       誌謝.....................................v
+       Acknowledgements.......................vii
+       摘要....................................ix
+       Abstract................................xi
+1      Introduction.............................1
+1.1    Motivation...............................1
+1.2    Goal.....................................2
+1.3    Divide and Conquer.......................2
+1.3.1  Definition...............................2
+1.3.2  Main Contribution of This Dissertation...3
+       Reducing the Difficulty of Problems......3
+       Independence of Subproblems..............3
+       Parallelism..............................3
+2      Overview of OMR..........................5
+2.1    Binarization.............................5
+2.2    Staff Detection and Removal..............6
+       References...............................7
