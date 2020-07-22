@@ -4,7 +4,7 @@ Create textual table of contents with page numbers from LaTeX toc.
 
 ## Demo
 
-Using example.toc generated from https://github.com/HW-Lee/nthu-thesis-template
+Using [example.toc](example.toc) generated from https://github.com/HW-Lee/nthu-thesis-template
 
 ```
 $ python toc2txt.py example.toc
