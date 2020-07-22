@@ -29,7 +29,7 @@ $ python toc2txt.py example.toc
 
 ## Usage
 
-1. Build your thesis PDF. This step generates the *.toc file. For Overleaf see [this](#overleaf).
+1. Build your thesis PDF. This step generates the *.toc file. For Overleaf see [below](#overleaf).
 2. (Optional) `pip install wcwidth` to support calculate CJK widths correctly.
 3. `python toc2txt.py filename.toc`
 
